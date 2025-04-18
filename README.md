@@ -1,4 +1,4 @@
-# Air_Fare_Prediction
+# Air Fare Prediction
 This project focuses on predicting airline ticket prices using a machine learning pipeline that includes data cleaning, feature engineering, model selection, and evaluation. The dataset includes features such as Airline, Source, Destination, Departure/Arrival times, and total stops.
 Absolutely! Here's a **detailed and well-formatted `README.md` script** for your GitHub project, including everything from introduction to setup and usage:
 
